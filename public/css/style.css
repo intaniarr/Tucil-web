@@ -1,0 +1,8 @@
+body {
+    background-image: url('/img/purple.png');
+    background-size: cover;
+}
+
+.warna{
+	color: rgb(87, 4, 119);
+}

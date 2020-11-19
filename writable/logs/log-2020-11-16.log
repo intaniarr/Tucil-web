@@ -1,0 +1,148 @@
+CRITICAL - 2020-11-16 23:09:17 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-16 23:09:27 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-16 23:10:26 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-16 23:11:08 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:12:45 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:12:48 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:12:49 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:13:51 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:15:28 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:16:03 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:16:05 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:19:40 --> Class 'App\Controller\Controller' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:19:42 --> Class 'App\Controller\Controller' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:20:15 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:21:56 --> Class 'App\Controller\BaseController' not found
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(583): include_once()
+#1 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-16 23:45:01 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-16 23:45:21 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\tucil_web\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login')
+#1 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login')
+#2 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\tucil_web\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\tucil_web\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\tucil_web\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
