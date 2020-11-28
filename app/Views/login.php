@@ -1,7 +1,7 @@
 <?= $this->extend('Layout/template'); ?>
 <?= $this->section('content'); ?>
 
-<form action = "Login/verif/" method="post">
+<form action = "Auth/verif/" method="post">
   <div class="container">
   <div class="form-group">
     <label for="email">Email address</label>
@@ -16,9 +16,9 @@
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
     <label class="form-check-label" for="exampleCheck1">Check me out</label>
   </div>
-  <a href="<?= base_url('register'); ?>">Create New Account</a>
-  <input type="submit" class="btn" value="Login">
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <a href="/register">Create New Account</a>
+
+  <button type="submit" class="btn btn-primary">Login</button>
   </div>
 </form>
 <?= $this->endSection(); ?>

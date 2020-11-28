@@ -1,7 +1,7 @@
 <?= $this->extend('Layout/template'); ?>
 <?= $this->section('content'); ?>
 
-<form action = "Login" method="post">
+<form action = "/Auth" method="post">
   <div class="container">
   <h2 class ="title">Register</h2>
   <div class="form-group">

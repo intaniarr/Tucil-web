@@ -10,60 +10,60 @@
     <tr>
       <th scope="col">No</th>
       <th scope="col">Nama Makanan</th>
-      <th scope="col">Berat (gr)</th>
       <th scope="col">Kalori</th>
-      <th scope="col">Lemak (gr)</th>
+      <th scope="col"> </th>
+      <th scope="col"> Rincian </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
       <td>Nasi putih</td>
-      <td>100</td>
       <td>175</td>
-      <td>0,3</td>
+      <td> <img src="/img/rice.png"width="50px">
+      <td><a href = "/detail2/" class="btn btn-success">detail</a>
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>Jagung rebus</td>
-      <td>250</td>
-      <td>90,2</td>
-      <td>1,5</td>
+      <td>93</td>
+      <td> <img src="/img/jagung.png"width="50px">
+      <td><a href = "/detail3/" class="btn btn-success">detail</a>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>Martabak manis</td>
-      <td>100</td>
       <td>300</td>
-      <td>12,57</td>
+      <td> <img src="/img/martabak.png"width="50px">
+      <td><a href = "/detail4/" class="btn btn-success">detail</a>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>Sate ayam</td>
-      <td>100</td>
       <td>225</td>
-      <td>14,82</td>
+      <td> <img src="/img/sate.png"width="50px">
+      <td><a href = "/detail5/" class="btn btn-success">detail</a>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>Kentang rebus</td>
-      <td>100</td>
       <td>87</td>
-      <td>0,1</td>
+      <td> <img src="/img/kentang.png"width="50px">
+      <td><a class="btn btn-success">detail</a>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>Roti</td>
-      <td>35</td>
       <td>92</td>
-      <td>0,46</td>
+      <td> <img src="/img/roti.png"width="50px">
+      <td><a class="btn btn-success">detail</a>
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>Telur rebus</td>
-      <td>100</td>
       <td>154</td>
-      <td>10,57</td>
+      <td> <img src="/img/telur.png"width="50px">
+      <td><a class="btn btn-success">detail</a>
     </tr>
   </tbody>
 </table>
